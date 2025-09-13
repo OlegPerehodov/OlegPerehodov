@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating Websites and apps<br>📚 I'm currently learning by the Developer Akademie<br>🎯 Goals: Working and coding to support thr digital world</p>
+<p align="center">✨ Creating Websites and apps<br>📚 I'm currently learning by the Developer Akademie<br>🎯 Goals: Working and coding to support the digital world</p>
 
 ###
 
